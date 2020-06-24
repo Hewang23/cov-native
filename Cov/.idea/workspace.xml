@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0f3e9753-0879-4c57-9e35-544457b787a4" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="ProjectId" id="1dWZ5AEsUCTwlxX9RywDjtqZV4G" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="ignore.virus.scanning.warn.message" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\pycharm-workspace\Cov\static\js" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\pycharm-workspace\Cov\static\js" />
+      <recent name="D:\pycharm-workspace\Cov\static" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.app">
+    <configuration name="app" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Cov" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/app.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="utils" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Cov" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/utils.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.app" />
+        <item itemvalue="Python.utils" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0f3e9753-0879-4c57-9e35-544457b787a4" name="Default Changelist" comment="" />
+      <created>1592542623420</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1592542623420</updated>
+      <workItem from="1592545010715" duration="17000" />
+      <workItem from="1592545094730" duration="213000" />
+      <workItem from="1592545344099" duration="116000" />
+      <workItem from="1592545469844" duration="3414000" />
+      <workItem from="1592552803986" duration="2927000" />
+      <workItem from="1592581674120" duration="29000" />
+      <workItem from="1592581727643" duration="45000" />
+      <workItem from="1592581795138" duration="1175000" />
+      <workItem from="1592591933085" duration="2525000" />
+      <workItem from="1592656454896" duration="2702000" />
+      <workItem from="1592792678834" duration="861000" />
+      <workItem from="1592823970227" duration="829000" />
+      <workItem from="1592959559241" duration="831000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1032" y="217" key="#Deployment" timestamp="1592592171385">
+      <screen x="0" y="30" width="1920" height="1050" />
+    </state>
+    <state x="1032" y="217" key="#Deployment/0.30.1920.1050@0.30.1920.1050" timestamp="1592592171385" />
+    <state x="1016" y="204" key="#SSH_Configurations" timestamp="1592592135098">
+      <screen x="0" y="30" width="1920" height="1050" />
+    </state>
+    <state x="1016" y="204" key="#SSH_Configurations/0.30.1920.1050@0.30.1920.1050" timestamp="1592592135098" />
+    <state x="465" y="3" key="#app" timestamp="1592824053892">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="465" y="3" key="#app/0.0.1536.824@0.0.1536.824" timestamp="1592824053892" />
+    <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1592824110116">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1592824110116" />
+    <state x="74" y="573" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1592793112028">
+      <screen x="0" y="30" width="1920" height="1050" />
+    </state>
+    <state x="74" y="573" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.30.1920.1050@0.30.1920.1050" timestamp="1592793112028" />
+    <state x="692" y="234" key="FileChooserDialogImpl" timestamp="1592824190914">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="692" y="234" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1592824190914" />
+    <state width="1490" height="212" key="GridCell.Tab.0.bottom" timestamp="1592959591400">
+      <screen x="0" y="30" width="1920" height="1050" />
+    </state>
+    <state width="1490" height="212" key="GridCell.Tab.0.bottom/0.30.1920.1050@0.30.1920.1050" timestamp="1592959591400" />
+    <state width="1490" height="212" key="GridCell.Tab.0.center" timestamp="1592959591400">
+      <screen x="0" y="30" width="1920" height="1050" />
+    </state>
+    <state width="1490" height="212" key="GridCell.Tab.0.center/0.30.1920.1050@0.30.1920.1050" timestamp="1592959591400" />
+    <state width="1490" height="212" key="GridCell.Tab.0.left" timestamp="1592959591399">
+      <screen x="0" y="30" width="1920" height="1050" />
+    </state>
+    <state width="1490" height="212" key="GridCell.Tab.0.left/0.30.1920.1050@0.30.1920.1050" timestamp="1592959591399" />
+    <state width="1490" height="212" key="GridCell.Tab.0.right" timestamp="1592959591400">
+      <screen x="0" y="30" width="1920" height="1050" />
+    </state>
+    <state width="1490" height="212" key="GridCell.Tab.0.right/0.30.1920.1050@0.30.1920.1050" timestamp="1592959591400" />
+    <state x="413" y="113" key="SettingsEditor" timestamp="1592824206244">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="413" y="113" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1592824206244" />
+    <state x="516" y="218" key="SettingsEditor/0.30.1920.1050@0.30.1920.1050" timestamp="1592595107531" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Cov$utils.coverage" NAME="utils Coverage Results" MODIFIED="1592657316798" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Cov$app.coverage" NAME="app Coverage Results" MODIFIED="1592959566526" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
